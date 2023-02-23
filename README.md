@@ -1,4 +1,5 @@
-##Projeto de Testes com Pytest para Manipulação de Arquivos
+## Projeto de Testes com Pytest para Manipulação de Arquivos
+
 Este projeto foi criado, durante o curso de python do programa Alpha edtech. Tem a motivação de demonstrar e praticar o uso do Pytest para criar testes automatizados para a manipulação de arquivos em disco.
 
 O projeto contém duas fixtures, uma para criar um diretório e outra para criar um arquivo com conteúdo de teste. Cada fixture cria um arquivo ou diretório antes da execução de um teste e remove o arquivo/diretório após a execução do teste.
